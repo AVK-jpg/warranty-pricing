@@ -1,0 +1,14 @@
+﻿node_modules/
+.next/
+out/
+dist/
+.turbo/
+.cache/
+.vscode/
+.env
+.env.*
+!.env.example
+.vercel/
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
